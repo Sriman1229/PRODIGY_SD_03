@@ -1,0 +1,1 @@
+This Python application provides a graphical user interface (GUI) for managing contact information. Users can add new contacts by entering their name, phone number, and email address. They can also view their contact list, edit existing contacts, and delete contacts if needed. The program stores contact information persistently in a text file for easy access.
